@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xml:lang="en"
+      >
+	<title>Summer of Rails</title>
+	<subtitle>Just another WordPress weblog</subtitle>
+	<id>http://summerofrails.org/blog/</id>
+	<link rel="self" type="application/atom+xml" href="http://summerofrails.org/blog/feed/atom/"/>
+	<link rel="alternate" type="text/html" href="http://summerofrails.org/"/>
+	<updated>2007-05-23T20:18:58Z</updated>
+	<rights>Copyright 2007</rights>
+	<generator uri="http://wordpress.org/" version="2.0.3">WordPress</generator>
+	<author>
+		<name>Summer of Rails</name>
+		<uri>http://summerofrails.org/blog</uri>
+	</author>
+	<icon>/images/skin/me_16.png</icon>
+			<entry>
+	  	<author>
+			<name>patrick</name>
+		</author>
+		<title type="html"><![CDATA[ Summer of Rails update ]]></title>
+		<link rel="alternate" type="text/html" href="http://summerofrails.org/blog/2007/05/23/summer-of-rails-update-2/"/>
+		<id>http://summerofrails.org/blog/2007/05/23/summer-of-rails-update-2/</id>
+		<published>2007-05-23T20:18:58Z</published>
+		<updated>2007-05-23T20:18:58Z</updated>
+		<category scheme="http://summerofrails.org/blog/category/"
+		          term="news/"
+		          label="News"/>
+		<summary type="html">
+			<![CDATA[ I&#8217;ve been approached by several people about doing another Summer of Rails project. If you guys are still interested, drop me a line.
+Meanwhile&#8230; check out my new Rails blog, the.railsi.st. It&#8217;s got lots of code examples, plus the skinny on two plugins I developed.
+
+rails, railsist, ruby, ruby on rails, summer of rails ]]>
+		</summary>
+		<content type="html">
+			<![CDATA[ <p>I&#8217;ve been approached by several people about doing another Summer of Rails project. If you guys are still interested, drop me a line.</p>
+<p>Meanwhile&#8230; check out my new Rails blog, <a href="http://the.railsi.st">the.railsi.st</a>. It&#8217;s got lots of code examples, plus the skinny on <a href="http://the.railsi.st/2007/5/3/headliner-dry-up-your-page-titles">two</a> <a href="http://the.railsi.st/2007/5/3/styler-stylesheets-made-easy">plugins</a> I developed.
+</p>
+<span style="display:none"><a href="http://summerofrails.org/blog/tags/rails" rel="tag">rails</a>, <a href="http://summerofrails.org/blog/tags/railsist" rel="tag">railsist</a>, <a href="http://summerofrails.org/blog/tags/ruby" rel="tag">ruby</a>, <a href="http://summerofrails.org/blog/tags/ruby-on-rails" rel="tag">ruby on rails</a>, <a href="http://summerofrails.org/blog/tags/summer-of-rails" rel="tag">summer of rails</a></span> ]]>
+		</content>
+			</entry>
+		<entry>
+	  	<author>
+			<name>patrick</name>
+		</author>
+		<title type="html"><![CDATA[ Summer is over ]]></title>
+		<link rel="alternate" type="text/html" href="http://summerofrails.org/blog/2006/11/27/summer-is-over/"/>
+		<id>http://summerofrails.org/blog/2006/11/27/summer-is-over/</id>
+		<published>2006-11-27T19:18:56Z</published>
+		<updated>2006-11-27T19:18:56Z</updated>
+		<category scheme="http://summerofrails.org/blog/category/"
+		          term="news/"
+		          label="News"/>
+		<summary type="html">
+			<![CDATA[ Ok&#8230; the Summer of Rails has been over for a while, but I&#8217;ve been so busy with other projects and the craziness that was RubyConf, I haven&#8217;t had a chance to officially acknowledge summer&#8217;s end.
+On a personal level, it was a great summer. I went to RailsConf, finally learned Rails, shipped my first app (which [...] ]]>
+		</summary>
+		<content type="html">
+			<![CDATA[ <p>Ok&#8230; the Summer of Rails has been over for a while, but I&#8217;ve been so busy with <a href="http://bmi.com">other</a> <a href="http://cinematreasures.org">projects</a> and the craziness that was <a href="http://rubyconf.org">RubyConf</a>, I haven&#8217;t had a chance to officially acknowledge summer&#8217;s end.</p>
+<p>On a personal level, it was a great summer. I went to <a href="http://railsconf.org">RailsConf</a>, finally learned Rails, shipped <a href="http://graffletopia.com">my first app</a> (which turned out to be <a href="http://del.icio.us/url/79710d014dd8a0e4c9fd7dc56c1d3e6f">pretty popular</a>), and gave <a href="http://podcast.sdruby.com/podcasts/001_summer_of_rails.m4v">a talk at sd.rb</a> on my experiences.</p>
+<p>For everyone else, thanks for participating in this project. The quality and scope of the SoR projects continues to amaze me.</p>
+<p>My personal list of favorites goes like this:</p>
+<ul>
+<li><a href="http://juggernaut.rubyforge.org">Juggernaut</a> — push server for Flash apps</li>
+<li><a href="http://brewjournal.com">Brew Journal</a> — web app for brewing beer (still unlaunched though)</li>
+<li><a href="http://mythofmiroha.com">Myth of Miroha</a> — Rails-based RPG</li>
+<li><a href="http://stu.dicio.us">Stu.dicio.us</a> — Tools for students</li>
+<li><a href="http://asktheguys.info">Ask the Guys</a> — Normal guys go &#8220;Dear Abby&#8221;</li>
+<li><a href="http://edibles.orderofr.net">Street Edibles</a> — Database of &#8216;urban food sources&#8217; in Portland. (Please add other cities soon!)</li>
+<li><a href="http://beloofdisbeloofd.nl">BeloofdisBeloofd</a> — Promise tracker for Dutch politicians</li>
+</ul>
+<p>The Summer of Rails will probably be back soon (in one form or another), but until then, I hope everyone continues to be inspired by the potential of Rails.
+</p>
+<span style="display:none"><a href="http://summerofrails.org/blog/tags/rails" rel="tag">rails</a>, <a href="http://summerofrails.org/blog/tags/ruby" rel="tag">ruby</a>, <a href="http://summerofrails.org/blog/tags/ruby-on-rails" rel="tag">ruby on rails</a>, <a href="http://summerofrails.org/blog/tags/summer-of-rails" rel="tag">summer of rails</a></span> ]]>
+		</content>
+			</entry>
+		<entry>
+	  	<author>
+			<name>patrick</name>
+		</author>
+		<title type="html"><![CDATA[ When does the Summer of Rails end? ]]></title>
+		<link rel="alternate" type="text/html" href="http://summerofrails.org/blog/2006/07/27/when-does-the-summer-of-rails-end/"/>
+		<id>http://summerofrails.org/blog/2006/07/27/when-does-the-summer-of-rails-end/</id>
+		<published>2006-07-27T16:36:15Z</published>
+		<updated>2006-07-27T16:36:36Z</updated>
+		<category scheme="http://summerofrails.org/blog/category/"
+		          term="news/"
+		          label="News"/>
+		<summary type="html">
+			<![CDATA[ Many people have asked&#8230; when does the Summer of Rails end? End of August? Labor Day?
+Well, according to the Wikipedia entry on summer, the official end of summer in North America is on September 23.
+That works for me. If SoR ends on September 23, that gives everybody six more weeks to participate in the Summer [...] ]]>
+		</summary>
+		<content type="html">
+			<![CDATA[ <p>Many people have asked&#8230; when does the Summer of Rails end? End of August? Labor Day?</p>
+<p>Well, according to the <a href="http://en.wikipedia.org/wiki/Summer">Wikipedia entry on summer</a>, the official end of summer in North America is on September 23.</p>
+<p>That works for me. If SoR ends on September 23, that gives everybody six more weeks to participate in the Summer of Rails.</p>
+<p>So, if you haven&#8217;t started a project yet, get going!
+</p>
+<span style="display:none"><a href="http://summerofrails.org/blog/tags/rails" rel="tag">rails</a>, <a href="http://summerofrails.org/blog/tags/ruby" rel="tag">ruby</a>, <a href="http://summerofrails.org/blog/tags/ruby-on-rails" rel="tag">ruby on rails</a>, <a href="http://summerofrails.org/blog/tags/summer-of-rails" rel="tag">summer of rails</a></span> ]]>
+		</content>
+			</entry>
+		<entry>
+	  	<author>
+			<name>patrick</name>
+		</author>
+		<title type="html"><![CDATA[ Summer of Rails update ]]></title>
+		<link rel="alternate" type="text/html" href="http://summerofrails.org/blog/2006/07/26/summer-of-rails-update/"/>
+		<id>http://summerofrails.org/blog/2006/07/26/summer-of-rails-update/</id>
+		<published>2006-07-26T18:55:17Z</published>
+		<updated>2006-07-26T19:16:20Z</updated>
+		<category scheme="http://summerofrails.org/blog/category/"
+		          term="news/"
+		          label="News"/>
+		<summary type="html">
+			<![CDATA[ Hope everyone&#8217;s summer is going well. Here&#8217;s a quick update on the Summer of Rails front:
+
+I launched Graffletopia, my first SoR app, last week.
+There are currently about 15 SoR projects in various stages of development. I&#8217;ve listed the public ones on the projects page.
+Some projects are pretty impressive &#8212; Juggernaut, an xmlsocket server for Rails, [...] ]]>
+		</summary>
+		<content type="html">
+			<![CDATA[ <p>Hope everyone&#8217;s summer is going well. Here&#8217;s a quick update on the Summer of Rails front:</p>
+<ul>
+<li>I launched <a href="http://graffletopia.com">Graffletopia</a>, my first SoR app, last week.</li>
+<li>There are currently about 15 SoR projects in various stages of development. I&#8217;ve listed the public ones on the <a href="/projects/">projects page</a>.</li>
+<li>Some projects are pretty impressive &#8212; <a href="http://juggernaut.rubyforge.org/">Juggernaut</a>, an xmlsocket server for Rails, and the <a href="http://mythofmiroha.com">Myth of Miroha</a>, a Rails-based RPG, just to name a few.</li>
+<li>I&#8217;ve started development on a Rails app which will keep track of all SoR projects.</li>
+</ul>
+<p>From here on out, I&#8217;ll be blogging about the Summer of Rails daily. If you&#8217;ve got something you want to share (cool links, Rails tips, etc.), drop me a line.
+</p>
+<span style="display:none"><a href="http://summerofrails.org/blog/tags/rails" rel="tag">rails</a>, <a href="http://summerofrails.org/blog/tags/ruby" rel="tag">ruby</a>, <a href="http://summerofrails.org/blog/tags/ruby-on-rails" rel="tag">ruby on rails</a>, <a href="http://summerofrails.org/blog/tags/summer-of-rails" rel="tag">summer of rails</a></span> ]]>
+		</content>
+			</entry>
+		<entry>
+	  	<author>
+			<name>patrick</name>
+		</author>
+		<title type="html"><![CDATA[ Welcome to the Summer of Rails ]]></title>
+		<link rel="alternate" type="text/html" href="http://summerofrails.org/blog/2006/07/08/welcome-to-the-summer-of-rails/"/>
+		<id>http://summerofrails.org/blog/2006/07/08/welcome-to-the-summer-of-rails/</id>
+		<published>2006-07-08T19:08:08Z</published>
+		<updated>2006-07-09T17:42:25Z</updated>
+		<category scheme="http://summerofrails.org/blog/category/"
+		          term="news/"
+		          label="News"/>
+		<summary type="html">
+			<![CDATA[ Hi, I&#8217;m Patrick Crowley and I&#8217;ve been writing Rails apps for exactly one week. So I guess that qualifies me as a newbie.
+I&#8217;ve actually been drinking the Rails kool-aid since I crashed RubyConf last year, but until a week ago, I hadn&#8217;t done any real Rails development. And I had lots of excuses. Busy with [...] ]]>
+		</summary>
+		<content type="html">
+			<![CDATA[ <p>Hi, I&#8217;m Patrick Crowley and I&#8217;ve been writing Rails apps for exactly one week. So I guess that qualifies me as a newbie.</p>
+<p>I&#8217;ve actually been drinking the Rails kool-aid since I crashed RubyConf last year, but until a week ago, I hadn&#8217;t done any real Rails development. And I had lots of excuses. Busy with other projects. A lot to learn. Living on the streets. (Ok, I made that up.)</p>
+<p>But I bet I&#8217;m not the only slacker out there. If you&#8217;re like me, you&#8217;re going to learn Rails. And you&#8217;re going to make some cool stuff.</p>
+<p>So why not get started now?</p>
+<p>&#8230;</p>
+<p>BTW, here&#8217;s what else I&#8217;ve got planned:</p>
+<ul>
+<li>A database of projects, with screenshots, links, and descriptions</li>
+<li>Tips for Rails newbies &#8212; Rails 101, deployment issues, etc.</li>
+<li>Prizes for the best SoR projects &#8212; if you&#8217;d like to be a sponsor, please get in touch</li>
+<li>Interviews with SoR developers</li>
+</ul>
+<p>Your suggestions are welcome too!</p>
+<span style="display:none"><a href="http://summerofrails.org/blog/tags/rails" rel="tag">rails</a>, <a href="http://summerofrails.org/blog/tags/ruby" rel="tag">ruby</a>, <a href="http://summerofrails.org/blog/tags/ruby-on-rails" rel="tag">ruby on rails</a>, <a href="http://summerofrails.org/blog/tags/summer-of-rails" rel="tag">summer of rails</a></span> ]]>
+		</content>
+			</entry>
+	</feed>

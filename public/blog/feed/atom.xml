@@ -5,7 +5,7 @@
 	<title>Summer of Rails</title>
 	<subtitle>Just another WordPress weblog</subtitle>
 	<id>http://summerofrails.org/blog/</id>
-	<link rel="self" type="application/atom+xml" href="http://summerofrails.org/blog/feed/atom/"/>
+	<link rel="self" type="application/atom+xml" href="http://summerofrails.org/blog/feed/atom.xml"/>
 	<link rel="alternate" type="text/html" href="http://summerofrails.org/"/>
 	<updated>2007-05-23T20:18:58Z</updated>
 	<rights>Copyright 2007</rights>

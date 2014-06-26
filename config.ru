@@ -1,3 +1,7 @@
+# GEMS
+require 'sinatra'
+
+# APP
 require './server'
 require 'rack-rewrite'
 

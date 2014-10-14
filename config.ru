@@ -2,7 +2,7 @@
 require 'sinatra'
 
 # APP
-require './server'
+require './app'
 require 'rack-rewrite'
 
 use Rack::Rewrite do

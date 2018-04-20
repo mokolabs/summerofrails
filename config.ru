@@ -1,9 +1,7 @@
-# GEMS
+# Load dependencies
 require 'sinatra'
-
-# APP
-require './app'
 require 'rack-rewrite'
+require './app'
 
 use Rack::Rewrite do
   r301 %r{.*}, 'http://summerofrails.org$&', :if => Proc.new {|rack_env|

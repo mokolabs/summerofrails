@@ -8,7 +8,7 @@ Summer of Rails
 2. `git clone git@github.com:mokolabs/summerofrails.git summerofrails`
 
 ### Configure the app and bundle install
-1. Switch to Ruby 2.4.4 with the Ruby version manager of your choice (this
+1. Switch to Ruby 2.7.5 with the Ruby version manager of your choice (this
 should happen automatically from the `.ruby-version` file)
 2. `bundle install`
 
